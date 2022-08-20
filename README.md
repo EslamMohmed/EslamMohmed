@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eslam Mohamed</h1>
+<h1 align="center">I'm Eslam Mohamed</h1>
 <h3 align="center">Computer Engineering Student interested in Embedded Systems</h3>
 
 - 📫 How to reach me **feslam895@gmail.com**
